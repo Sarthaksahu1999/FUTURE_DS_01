@@ -50,7 +50,9 @@ This project analyzes customer churn behavior in a telecom subscription business
 ---
 
 ## 📂 Dataset
+The dataset used in this project is included in the repository:
 
+`Dataset/Telco_Customer_Churn.csv`
 
 ---
 
