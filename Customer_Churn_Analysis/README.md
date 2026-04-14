@@ -45,8 +45,7 @@ This project analyzes customer churn behavior in a telecom subscription business
 ---
 
 ## 🖼️ Dashboard Preview
-https://github.com/Sarthaksahu1999/FUTURE_DS_01/blob/main/Customer_Churn_Analysis/dashboard.png
-Customer_Churn_Analysis/dashboard.png
+![Dashboard](dashboard.png)
 
 ---
 
