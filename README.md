@@ -25,7 +25,7 @@ Analyze sales performance to identify revenue trends, top products, and regional
 
 ### 📸 Dashboard Preview
 <p align="center">
-  <img src="Task_1_Sales_Analysis/screenshots/dashboard.png" width="800">
+  <img src="dashboard.png" width="800">
 </p>
 
 ---
