@@ -1,104 +1,114 @@
-# 📊 Data Science & Analytics Internship Projects (Future Interns)
+# 📊 FUTURE_DS_01 – Data Science & Analytics Internship Projects
 
 ## 📌 Overview
-
-This repository contains projects completed as part of the **Future Interns Data Science & Analytics Internship Program (2026)**.
-
-Each project focuses on solving real-world business problems using data analysis, visualization, and insights.
+This repository contains all tasks completed during the **Future Interns Data Science & Analytics Internship**.  
+Each task focuses on solving real-world business problems using data analysis, visualization, and actionable insights.
 
 ---
 
-# 🚀 📁 Projects Included
+# 🚀 Tasks Completed
 
 ---
 
-## 🔹 1. Sales Performance Analysis Dashboard
+## 🔹 Task 1: Sales Analysis Dashboard
 
 ### 📌 Objective
-
-Analyze sales data to track performance, identify trends, and support business decision-making.
-
-### 🛠 Tools Used
-
-* Excel
-* Data Visualization
-
-### 📊 Key Highlights
-
-* Sales trends analysis
-* KPI tracking dashboard
-* Business performance insights
-
-### 🖼 Dashboard Preview
-
-![Sales Dashboard](Sales_Analysis_Dashboard/Dashboard.png)
-
----
-
-## 🔹 2. Customer Churn & Retention Analysis
-
-### 📌 Objective
-
-Analyze customer churn patterns and identify key factors affecting retention in a telecom business.
+Analyze sales performance to identify revenue trends, top products, and regional insights.
 
 ### 🛠 Tools Used
-
-* Python (Pandas, NumPy, Seaborn)
-* Power BI
-* Cohort Analysis
+- Excel / Power BI / Tableau  
 
 ### 📊 Key Insights
+- Identified top-performing products and regions  
+- Sales trends vary across time periods  
+- Key revenue-driving segments highlighted  
 
-* Month-to-month customers have highest churn
-* Long-term customers show better retention
-* Electronic check users churn more
-* Fiber optic users show higher churn risk
-
-### 🧠 Advanced Analysis
-
-* Cohort analysis using Python
-* Retention heatmap visualization
-
-### 💡 Business Recommendations
-
-* Improve onboarding for new users
-* Promote long-term contracts
-* Target high-risk customers early
-* Build loyalty programs
-
-### 🖼 Dashboard Preview
-
-![Churn Dashboard](Customer_Churn_Analysis/dashboard.png)
+### 📸 Dashboard Preview
+<p align="center">
+  <img src="Task_1_Sales_Analysis/screenshots/dashboard.png" width="800">
+</p>
 
 ---
 
-# 📂 Repository Structure
+## 🔹 Task 2: Customer Retention Analysis
 
-```
-FUTURE_DS_01/
-│
-├── Sales_Analysis_Dashboard/
-│   ├── Dataset/
-│   ├── Dashboard.png
-│   ├── README.md
-│   └── Excel File
-│
-├── Customer_Churn_Analysis/
-│   ├── Dataset/
-│   ├── churn_analysis.ipynb
-│   ├── dashboard.png
-│   ├── dashboard.pbix
-│   └── README.md
-│
-└── README.md
-```
+### 📌 Objective
+Understand customer behavior, retention patterns, and churn factors.
+
+### 🛠 Tools Used
+- Python (Pandas, Matplotlib)  
+
+### 📊 Key Insights
+- Identified factors affecting customer retention  
+- Highlighted patterns in customer engagement  
+- Provided strategies to improve retention  
+
+### 📸 Dashboard / Output Preview
+<p align="center">
+  <img src="Task_2_Customer_Retention/screenshots/dashboard.png" width="800">
+</p>
 
 ---
 
-# 🧑‍💻 Author
+## 🔹 Task 3: Marketing Funnel & Conversion Analysis
 
-**Sarthak Sahu**
-Aspiring Data Analyst
-Skills: SQL | Python | Power BI | Excel
+### 📌 Objective
+Analyze user journey from **leads → interested → customers** and identify drop-off points.
+
+### 🛠 Tools Used
+- Python (Pandas, Matplotlib)  
+- Tableau  
+
+### 📊 Key Metrics
+- Total Leads: **45,211**  
+- Interested Users: **22,551**  
+- Customers: **5,289**  
+- Conversion Rate: **11.7%**
+
+### 🔍 Key Insights
+- ~50% users drop at the initial stage  
+- Only ~23% of interested users convert  
+- Students & retired segments show highest conversion  
+- Longer interaction duration improves conversion  
+
+### 💡 Recommendations
+- Improve lead qualification strategy  
+- Focus on high-performing customer segments  
+- Optimize final conversion stage  
+- Reduce drop-offs in early funnel  
+
+### 📸 Dashboard Preview
+<p align="center">
+  <img src="Marketing_Funnel_Analysis/screenshots/dashboard_preview.png" width="800">
+</p>
 
 ---
+
+---
+
+# 🧠 Skills Gained
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Dashboarding  
+- Marketing Funnel & Conversion Analysis  
+- Business Insight Generation  
+
+---
+
+# 🎯 Key Takeaways
+- Learned how data directly impacts business decisions  
+- Built end-to-end analytics projects (data → insights → dashboard)  
+- Developed real-world problem-solving skills  
+
+---
+
+# 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sarthak-sahu-60a908392  
+- GitHub: https://github.com/Sarthaksahu1999  
+
+---
+
+# ⭐ Acknowledgment
+Thanks to **Future Interns** for providing hands-on, real-world data analytics experience.
+
+
