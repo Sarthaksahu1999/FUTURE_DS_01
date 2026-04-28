@@ -29,7 +29,7 @@ To understand how users move from leads → interested → customers and identif
 - Reduce drop-offs in early funnel stages
 
 ## 📊 Dashboard Preview
-dashboard_preview.png
+![Dashboard](screenshots/dashboard.png)
 
 ## 🔗 Project Files
 - Dataset
