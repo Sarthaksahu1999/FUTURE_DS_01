@@ -45,7 +45,7 @@ Understand customer behavior, retention patterns, and churn factors.
 
 ### 📸 Dashboard / Output Preview
 <p align="center">
-  <img src="Task_2_Customer_Retention/screenshots/dashboard.png" width="800">
+  <img src="https://github.com/Sarthaksahu1999/FUTURE_DS_01/blob/main/Customer_Churn_Analysis/dashboard.png" width="800">
 </p>
 
 ---
