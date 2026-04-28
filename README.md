@@ -79,7 +79,7 @@ Analyze user journey from **leads → interested → customers** and identify dr
 
 ### 📸 Dashboard Preview
 <p align="center">
-  <img src="Marketing_Funnel_Analysis/screenshots/dashboard_preview.png" width="800">
+  <img src="https://github.com/Sarthaksahu1999/FUTURE_DS_01/tree/main/Marketing_Funnel_Analysis/Screenshots" width="800">
 </p>
 
 ---
