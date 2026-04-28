@@ -79,9 +79,7 @@ Analyze user journey from **leads → interested → customers** and identify dr
 
 ### 📸 Dashboard Preview
 <p align="center">
-  <img src="## 📊 Dashboard Preview
-
-![Dashboard](screenshots/dashboard_preview.png)" width="800">
+  <img src="Screenshots/dashboard_preview.png" width="800">
 </p>
 
 ---
