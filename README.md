@@ -16,7 +16,7 @@ Each task focuses on solving real-world business problems using data analysis, v
 Analyze sales performance to identify revenue trends, top products, and regional insights.
 
 ### 🛠 Tools Used
-- Excel / Power BI / Tableau  
+- Excel 
 
 ### 📊 Key Insights
 - Identified top-performing products and regions  
@@ -36,8 +36,8 @@ Analyze sales performance to identify revenue trends, top products, and regional
 Understand customer behavior, retention patterns, and churn factors.
 
 ### 🛠 Tools Used
-- Python (Pandas, Matplotlib)  
-
+- Python (Pandas, Matplotlib)
+- Power Bi
 ### 📊 Key Insights
 - Identified factors affecting customer retention  
 - Highlighted patterns in customer engagement  
